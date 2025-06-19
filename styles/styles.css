@@ -1,0 +1,70 @@
+.titulo-principal {
+    font-size: 48px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.subtitulo {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+
+.s-texto {
+    font-size: 24px;
+    text-align: center justify;
+    margin-bottom: 1em;
+    
+}
+
+.texto {
+    font-size: 24px;
+    text-align: justify;
+    padding: 20px auto;
+    line-height: 1.6;
+}
+
+.rodape {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 3em;
+    color: gray;
+}
+.box {
+    background-color: #F0F2F6;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #D3D3D3;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.05);
+    margin: 20px auto; /* centraliza horizontalmente */
+    display: block; /* importante: block funciona melhor que inline-block aqui */
+    max-width: 90%;
+    word-wrap: break-word;
+    background-color: #c3d5db;
+    color: black;
+    font-size: 24px;
+    text-align: justify;
+}
+.especific_word{
+    font-size: 20px;
+    font-weight: bold;
+}
+.box-ajustada{
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.interpretacao{
+    font-size: 17px;
+    text-align: justify;
+    background-color: white;
+    border-left: 5px solid;
+    padding: 15px  20px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 6px rgba(0,0,0,0.05);
+}
